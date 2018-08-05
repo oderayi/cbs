@@ -1,6 +1,7 @@
 // Program to fnd the sum and average of two numbers
 
 #include <iostream>
+
 using namespace std;
 
 int main(){
@@ -12,5 +13,6 @@ int main(){
 	average = sum / 2;
 	cout << "\n" << "Sum = " << sum << endl;
 	cout << "Average = " << average << endl;
+
 	return 0;
 }

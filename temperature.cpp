@@ -1,4 +1,4 @@
-// A program to convert temp reading in degree celcious to fahrenheit using fahreinheit = (9/5) * celcius + 32
+// A program to convert temperature reading in degree celcious to fahrenheit using fahreinheit = (9/5) * celcius + 32
 
 #include <iostream>
 
